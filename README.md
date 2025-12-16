@@ -9,3 +9,6 @@ Starts in: js/app/app.js and with the bundle file in index.php.
 
 </br>
 Available here as a test: https://spektatum.com/NewsApp/
+
+### NOTE 2025
+Versions might need an update before run.
