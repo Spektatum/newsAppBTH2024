@@ -3,7 +3,7 @@
 * Index file
 *
 */
-$updated = 20211120;
+$updated = 2025;
 // JS APP BASE: 1.7
 $version = '1.3.6';
 $styleVersion = '1.9.3';
